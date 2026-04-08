@@ -62,6 +62,4 @@ Enhancing the reflectance component improves visibility while preserving natural
 
 ---
 
-```markdown
-![Original Image](original.png)
-![Enhanced Image](enhanced.png)
+
